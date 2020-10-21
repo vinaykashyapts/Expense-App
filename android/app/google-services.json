@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464720930512",
+    "firebase_url": "https://expense-logger-f3d74.firebaseio.com",
+    "project_id": "expense-logger-f3d74",
+    "storage_bucket": "expense-logger-f3d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464720930512:android:5e92281a4daa5944e8a0d5",
+        "android_client_info": {
+          "package_name": "com.expenseloggerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464720930512-cs8dkmfoj7sa8frb1p8dmif6pand5fga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkq47-4SCFzuiFNPvrEfAOeDYnn-FieU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464720930512-cs8dkmfoj7sa8frb1p8dmif6pand5fga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
